@@ -1,6 +1,6 @@
 # dicegame
 Hi You all first of thanks for seeing this project :)\
-<-----------------------------------------------------------------------> \
+<----------------------------------------------------------------------->\
 It's a Pig Dice Game(You can google for more information) made with JS,CSS3, HTML5\
 <----------------------------------------------------------------------->\
 Beautiful Interface is built with HTML5 and CSS3 and I have used Lato Fonts as font family and icons were fetched from ionic framework CDN\
@@ -15,7 +15,7 @@ I will break everything into pieces for you to easily understand it-\
 This functions intialises all global variables to their intial state\
 for example scores,roundscore,activePlayer will be set to zero\
 
-<-----------------------------------------------------------------------><----------------------------------------------------------------------->\
+<----------------------------------------------------------------------->\
 
 2.Roll Button Event Listener(Invoked only on click) - \
 This function uses global variables and manipulates them.\
